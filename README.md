@@ -15,10 +15,10 @@ This repository contains implementations of popular ensemble learning methods an
 
 
 ## Colab Links:
-- [GBM](https://docs.google.com/presentation/d/19j3wC-8_cz41CIm88F6kOFU8ys7zVcRfaBw6SImAeWc/edit#slide=id.ga2af525914_0_6955)
-- [Random Forest](https://github.com/veb-101/Machine-Learning-Algorithms/blob/master/Random%20Forest/random_forest.ipynb)
-- [AdaBoost](https://github.com/veb-101/Machine-Learning-Algorithms/tree/master/Boosting%20-%20AdaBoost)
-- [Decision Trees](https://github.com/veb-101/Machine-Learning-Algorithms/tree/master/Decision%20Trees)
+- [GBM](https://colab.research.google.com/drive/1any9shFJQuLAuqyD43BDol6q2MQyc1ph?usp=sharing)
+- [Random Forest](https://colab.research.google.com/drive/1aZeZYJIRr3Q1FWvoJEIDuTH_WkNq9zvi?usp=sharing)
+- [AdaBoost](https://colab.research.google.com/drive/1ibt4Av0Gu9l5qEpLXXFjiblDqDbZXbJW?usp=sharing)
+- [Decision Trees](https://colab.research.google.com/drive/12nK0LoOoQbYiMtTtN9FquBtNGm6s56Xb?usp=sharing)
 
 ## Youtube Video:
 - [Video Link](www.youtube.com)
