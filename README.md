@@ -21,4 +21,4 @@ This repository contains implementations of popular ensemble learning methods an
 - [Decision Trees](https://colab.research.google.com/drive/12nK0LoOoQbYiMtTtN9FquBtNGm6s56Xb?usp=sharing)
 
 ## Youtube Video:
-- [Video Link](www.youtube.com)
+- [Video Link](https://youtu.be/x8YQYVEFFA4)
